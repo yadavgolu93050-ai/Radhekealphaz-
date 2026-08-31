@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yadavgolu93050-ai.github.io/Radhekealphaz-/sitemap.xml
